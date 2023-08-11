@@ -23,31 +23,31 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
+  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
   "We use process design to create digital products. Besides that also help their business",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Self-Employed, Gurgaon",
+    tenure: "May 2022 -May 2023 ",
+    role: "Full Stack Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Develop client-side and server-side architecture ,Build the front-end of applications through appealing visual design ,Develop and manage well-functioning databases and applications Write effective APIs "
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
+    place: "Plant4u",
+    tenure: "Aug 2022 - Apr 2022",
+    role: "Frontend Developer",
+    detail:
+     " Use markup languages like HTML to create user-friendly web pages ,Maintain and improve website ,Optimize applications for maximum speed,Design mobile-based features,Collaborate with back-end developers and web designers to improve usability,Help back-end developers with coding and troubleshooting"
+  },
+  {
+    place: "Tata Consultancy Services",
+    tenure: "Feb 2021 - July 2021",
     role: "UI/UX Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
-  },
-  {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Gather and evaluate user requirements in collaboration with product managers and engineers,Illustrate design ideas using storyboards, process flows and sitemaps,Design graphic user interface elements, like menus, tabs and widgets",
   },
 ];
 

@@ -37,7 +37,7 @@ export const workExp = [
   },
   {
     place: "Plant4u",
-    tenure: "Aug 2022 - Apr 2022",
+    tenure: "Aug 2021 - Apr 2022",
     role: "Frontend Developer",
     detail:
      " Use markup languages like HTML to create user-friendly web pages ,Maintain and improve website ,Optimize applications for maximum speed,Design mobile-based features,Collaborate with back-end developers and web designers to improve usability,Help back-end developers with coding and troubleshooting"

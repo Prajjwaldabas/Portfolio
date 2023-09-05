@@ -52,20 +52,19 @@ prajjwalchaudhary29898@gmail.com
 {/* lower elements */}
 <div className={` ${css.lowerElements}`}>
 
-<div className={css.experience}>
-<div className="primaryText">1</div>
-<div className="secondarytext">
-    <div>
-        Year
-    </div>
-    <div>Experience</div>
-</div>
-</div>
+<motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
+            <div className="primaryText">1</div>
+            <div className="secondaryText">
+              <div>Year</div>
+              <div>Experience</div>
+            </div>
+          </motion.div>
+
 
 <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
             <img src="./certificate.png" alt="" />
-            <span>CERTIFIED PROFATIONAL</span>
-            <span>UI/UX DESIGNER</span>
+            <span>CERTIFIED PROFESSIONAL</span>
+            <span>FULL STACK WEB DEVELOPER</span>
           </motion.div>
 
 

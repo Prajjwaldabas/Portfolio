@@ -30,7 +30,7 @@ const Portfolio = () => {
 
           <motion.a href="https://punarjagran-ngo.onrender.com/" width={300} height={300} target="_blank" variants={fadeIn("up", "tween", .5, .6)}><motion.img  src="./Ngo.png" alt="project" height={300} width={300}/>  </motion.a>
             
-            <motion.a href="" width={300} height={300} target="_blank" variants={fadeIn("up", "tween", .5, .6)}><motion.img  src="./social.png" alt="project" height={300} width={300}/></motion.a>
+            <motion.a href="https://mern-social-media-app-frontend-1ggr.onrender.com/" width={300} height={300} target="_blank" variants={fadeIn("up", "tween", .5, .6)}><motion.img  src="./social.png" alt="project" height={300} width={300}/></motion.a>
             
         </div>
       </div>
